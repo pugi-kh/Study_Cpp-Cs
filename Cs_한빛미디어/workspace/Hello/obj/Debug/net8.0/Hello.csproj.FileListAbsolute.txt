@@ -1,0 +1,15 @@
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\bin\Debug\net8.0\Hello.exe
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\bin\Debug\net8.0\Hello.deps.json
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\bin\Debug\net8.0\Hello.runtimeconfig.json
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\bin\Debug\net8.0\Hello.dll
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\bin\Debug\net8.0\Hello.pdb
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\obj\Debug\net8.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\obj\Debug\net8.0\Hello.AssemblyInfoInputs.cache
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\obj\Debug\net8.0\Hello.AssemblyInfo.cs
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\obj\Debug\net8.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\obj\Debug\net8.0\Hello.sourcelink.json
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\obj\Debug\net8.0\Hello.dll
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\obj\Debug\net8.0\refint\Hello.dll
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\obj\Debug\net8.0\Hello.pdb
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\obj\Debug\net8.0\Hello.genruntimeconfig.cache
+C:\Users\kihoonkwon\Programing\Study_Cpp-Csproj\Csproj_한빛미디어\workspace\Hello\obj\Debug\net8.0\ref\Hello.dll
