@@ -7,3 +7,4 @@ C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\Project
 C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\Project02_3\obj\Debug\Project02_3.csproj.CoreCompileInputs.cache
 C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\Project02_3\obj\Debug\Project02_3.exe
 C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\Project02_3\obj\Debug\Project02_3.pdb
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\Project02_3\obj\Debug\Project02_3.Form1.resources

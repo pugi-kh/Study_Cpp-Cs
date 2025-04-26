@@ -1,0 +1,10 @@
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project02_4\bin\Debug\project02_4.exe.config
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project02_4\bin\Debug\project02_4.exe
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project02_4\bin\Debug\project02_4.pdb
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project02_4\obj\Debug\project02_4.csproj.AssemblyReference.cache
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project02_4\obj\Debug\project02_4.Form1.resources
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project02_4\obj\Debug\project02_4.Properties.Resources.resources
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project02_4\obj\Debug\project02_4.csproj.GenerateResource.cache
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project02_4\obj\Debug\project02_4.csproj.CoreCompileInputs.cache
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project02_4\obj\Debug\project02_4.exe
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project02_4\obj\Debug\project02_4.pdb

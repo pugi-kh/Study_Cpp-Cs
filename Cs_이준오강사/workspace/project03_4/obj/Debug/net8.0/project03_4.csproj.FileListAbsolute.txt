@@ -1,0 +1,15 @@
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\bin\Debug\net8.0\project03_4.exe
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\bin\Debug\net8.0\project03_4.deps.json
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\bin\Debug\net8.0\project03_4.runtimeconfig.json
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\bin\Debug\net8.0\project03_4.dll
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\bin\Debug\net8.0\project03_4.pdb
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\obj\Debug\net8.0\project03_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\obj\Debug\net8.0\project03_4.AssemblyInfoInputs.cache
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\obj\Debug\net8.0\project03_4.AssemblyInfo.cs
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\obj\Debug\net8.0\project03_4.csproj.CoreCompileInputs.cache
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\obj\Debug\net8.0\project03_4.sourcelink.json
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\obj\Debug\net8.0\project03_4.dll
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\obj\Debug\net8.0\refint\project03_4.dll
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\obj\Debug\net8.0\project03_4.pdb
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\obj\Debug\net8.0\project03_4.genruntimeconfig.cache
+C:\Users\kihoonkwon\Programing\Study_Cpp-Cs\Cs_이준오강사\workspace\project03_4\obj\Debug\net8.0\ref\project03_4.dll
