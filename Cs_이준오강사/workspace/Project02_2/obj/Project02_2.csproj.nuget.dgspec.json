@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_이준오강사\\workspace\\Project02_2\\Project02_2.csproj": {}
+    "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_이준오강사\\workspace\\project02_2\\project02_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_이준오강사\\workspace\\Project02_2\\Project02_2.csproj": {
+    "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_이준오강사\\workspace\\project02_2\\project02_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_이준오강사\\workspace\\Project02_2\\Project02_2.csproj",
-        "projectName": "Project02_2",
-        "projectPath": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_이준오강사\\workspace\\Project02_2\\Project02_2.csproj",
+        "projectUniqueName": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_이준오강사\\workspace\\project02_2\\project02_2.csproj",
+        "projectName": "project02_2",
+        "projectPath": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_이준오강사\\workspace\\project02_2\\project02_2.csproj",
         "packagesPath": "C:\\Users\\kihoonkwon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_이준오강사\\workspace\\Project02_2\\obj\\",
+        "outputPath": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_이준오강사\\workspace\\project02_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_\uC774\uC900\uC624\uAC15\uC0AC\\workspace\\Project02_2\\",
+  "WorkspaceRootPath": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_\uC774\uC900\uC624\uAC15\uC0AC\\workspace\\project02_2\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A67B549C-3BBE-4D47-8817-A4B6CC093CDA}|Project02_2.csproj|c:\\users\\kihoonkwon\\programing\\study_cpp-cs\\cs_\uC774\uC900\uC624\uAC15\uC0AC\\workspace\\project02_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_\uC774\uC900\uC624\uAC15\uC0AC\\workspace\\Project02_2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_\uC774\uC900\uC624\uAC15\uC0AC\\workspace\\Project02_2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAYAAAAMAAAAAAAAAA==",
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_\uC774\uC900\uC624\uAC15\uC0AC\\workspace\\project02_2\\program.cs",
+              "RelativeDocumentMoniker": "program.cs",
+              "ToolTip": "C:\\Users\\kihoonkwon\\Programing\\Study_Cpp-Cs\\Cs_\uC774\uC900\uC624\uAC15\uC0AC\\workspace\\project02_2\\program.cs",
+              "RelativeToolTip": "program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T04:56:24.263Z",
               "EditorCaption": ""
